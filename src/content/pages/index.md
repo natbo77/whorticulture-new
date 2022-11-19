@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Whorticulture
 tagline: Interior Plant Design
-featuredImage: /assets/unnamed-4.jpg
+featuredImage: /assets/unnamed-5.jpg
 cta:
   ctaText: Schedule a Virtual Consultation (30 mins)
   ctaLink: /contact
