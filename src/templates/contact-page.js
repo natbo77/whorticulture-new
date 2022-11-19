@@ -63,8 +63,13 @@ const Contact = ({ data }) => {
           </p>
           <p>
             <label>
-              Subject
-              <input type="text" name="subject" required />
+              Service
+              <select name="service">
+                <option value="volvo">Volvo</option>
+                <option value="saab">Saab</option>
+                <option value="mercedes">Mercedes</option>
+                <option value="audi">Audi</option>
+              </select>
             </label>
           </p>
           <p>
