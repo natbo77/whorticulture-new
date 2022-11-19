@@ -3,9 +3,9 @@ template: index-page
 slug: /
 title: Whorticulture
 tagline: Interior Plant Design
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/unnamed-4.jpg
 cta:
   ctaText: Schedule a Virtual Consultation (30 mins)
   ctaLink: /contact
 ---
-I'm a full service plant consultant introducing plants to Southern California spaces. I'm here to help you choose the best plants for your needs and I'll teach you how to take care of 'em, too.
+Whorticulture is a full service plant consultant brand introducing plants to Southern California spaces. It's inspired by a true love for plants. We're here to help you choose the best plants for your needs and we'll teach you how to take care of 'em, too. Residential, commericial, and event design needs welcome - no previous plant know-how needed. We're in this together.
