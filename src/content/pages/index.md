@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Whorticulture
+tagline: Interior Plant Design
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Schedule a Virtual Consultation
-  ctaLink: /about
+  ctaText: Schedule a Virtual Consultation (30 mins)
+  ctaLink: /contact
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I'm a full service plant consultant introducing plants to Southern California spaces. I'm here to help you choose the best plants for your needs and I'll teach you how to take care of 'em, too.
